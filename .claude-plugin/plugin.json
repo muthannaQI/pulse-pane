@@ -1,8 +1,17 @@
 {
   "name": "pulse-pane",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "لوحة حيّة رسومية تعرض ما يفعله Claude Code لحظة بلحظة: الحالة، خط الأنابيب، الأدوات، الملفات، السياق والتكلفة.",
   "author": { "name": "Mohammed" },
   "license": "MIT",
+  "userConfig": {
+    "language": {
+      "type": "string",
+      "title": "Language",
+      "description": "The pane's language: en, ar, es, fr, de, pt, ru, zh, ja or hi. /pulse <code> changes it too.",
+      "default": "en",
+      "options": ["en", "ar", "es", "fr", "de", "pt", "ru", "zh", "ja", "hi"]
+    }
+  },
   "types": "./types/index.d.ts"
 }

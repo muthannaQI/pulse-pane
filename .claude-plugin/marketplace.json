@@ -6,7 +6,7 @@
     {
       "name": "pulse-pane",
       "source": "./",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "description": "A live graphical pane showing what Claude Code is doing moment by moment: status, pipeline, tools, files, context and cost.",
       "author": { "name": "Mohammed" },
       "license": "MIT"
