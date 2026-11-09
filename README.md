@@ -36,9 +36,23 @@ reads the events the engine already gives it. Version 1.0.2, MIT license.
 
 ### التثبيت
 
+في جلسة Claude Code في الطرفية:
+
 ```
 /plugin install pulse-pane --marketplace muthannaQI/pulse-pane
 ```
+
+أجب بـ `y` لإضافة الـ marketplace، ثم اختر النطاق (user أولًا) بـ Enter.
+
+من سطر الأوامر:
+
+```bash
+claude plugin install pulse-pane --marketplace muthannaQI/pulse-pane
+```
+
+في تطبيق Claude لسطح المكتب، حيث لا يعمل `/plugin`: اضغط + بجانب مربع
+الكتابة، ثم Plugins، ثم Add marketplace واكتب `muthannaQI/pulse-pane`، ثم
+Add plugin.
 
 ### الاستخدام
 
