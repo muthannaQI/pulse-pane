@@ -1,7 +1,8 @@
 {
   "name": "pulse-pane",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "لوحة حيّة رسومية تعرض ما يفعله Claude Code لحظة بلحظة: الحالة، خط الأنابيب، الأدوات، الملفات، السياق والتكلفة.",
   "author": { "name": "Mohammed" },
+  "license": "MIT",
   "types": "./types/index.d.ts"
 }

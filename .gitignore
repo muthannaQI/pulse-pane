@@ -1,3 +1,4 @@
 # Written by the Claude Code engine each time it loads the mod; regenerated, never edited.
 .claude-plugin/types/
 node_modules/
+# .claude/ is deliberately NOT ignored: the dev agents ship with the repo.

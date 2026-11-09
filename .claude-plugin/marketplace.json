@@ -1,0 +1,15 @@
+{
+  "name": "pulse-pane",
+  "description": "Marketplace for the pulse-pane Claude Code mod.",
+  "owner": { "name": "Mohammed" },
+  "plugins": [
+    {
+      "name": "pulse-pane",
+      "source": "./",
+      "version": "1.0.2",
+      "description": "A live graphical pane showing what Claude Code is doing moment by moment: status, pipeline, tools, files, context and cost.",
+      "author": { "name": "Mohammed" },
+      "license": "MIT"
+    }
+  ]
+}
