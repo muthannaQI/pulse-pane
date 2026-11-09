@@ -1,0 +1,4 @@
+# Keep LF everywhere: the files are written with LF, and a CRLF checkout would
+# show every line as changed.
+* text=auto eol=lf
+*.png binary
