@@ -2,3 +2,9 @@
 .claude-plugin/types/
 node_modules/
 # .claude/ is deliberately NOT ignored: the dev agents ship with the repo.
+
+# Local environment files hold API keys and secrets; this repo is public.
+# A committed .env.example (placeholders only) is still allowed as a template.
+.env
+.env.*
+!.env.example
